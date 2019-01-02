@@ -9,3 +9,5 @@ The following techniques are studied:
 The following have also been implemented:
 1. Synthetic dataset creation
 2. Dataset imputation
+
+The results can be found [here](https://github.com/shubhangighosh/Methods-of-classification-and-regression/blob/master/Results.pdf)
